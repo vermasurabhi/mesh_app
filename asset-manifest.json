@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vermasurabhi/mesh_app.git/static/css/main.6f59c172.css",
+    "main.js": "/vermasurabhi/mesh_app.git/static/js/main.1d56d9bd.js",
+    "static/js/592.ce713d11.chunk.js": "/vermasurabhi/mesh_app.git/static/js/592.ce713d11.chunk.js",
+    "index.html": "/vermasurabhi/mesh_app.git/index.html",
+    "main.6f59c172.css.map": "/vermasurabhi/mesh_app.git/static/css/main.6f59c172.css.map",
+    "main.1d56d9bd.js.map": "/vermasurabhi/mesh_app.git/static/js/main.1d56d9bd.js.map",
+    "592.ce713d11.chunk.js.map": "/vermasurabhi/mesh_app.git/static/js/592.ce713d11.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f59c172.css",
+    "static/js/main.1d56d9bd.js"
+  ]
+}
