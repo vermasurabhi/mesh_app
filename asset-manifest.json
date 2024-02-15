@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/vermasurabhi/mesh_app/static/css/main.6f59c172.css",
-    "main.js": "/vermasurabhi/mesh_app/static/js/main.5d16034e.js",
+    "main.js": "/vermasurabhi/mesh_app/static/js/main.be56eacd.js",
     "static/js/592.ce713d11.chunk.js": "/vermasurabhi/mesh_app/static/js/592.ce713d11.chunk.js",
     "index.html": "/vermasurabhi/mesh_app/index.html",
     "main.6f59c172.css.map": "/vermasurabhi/mesh_app/static/css/main.6f59c172.css.map",
-    "main.5d16034e.js.map": "/vermasurabhi/mesh_app/static/js/main.5d16034e.js.map",
+    "main.be56eacd.js.map": "/vermasurabhi/mesh_app/static/js/main.be56eacd.js.map",
     "592.ce713d11.chunk.js.map": "/vermasurabhi/mesh_app/static/js/592.ce713d11.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6f59c172.css",
-    "static/js/main.5d16034e.js"
+    "static/js/main.be56eacd.js"
   ]
 }
