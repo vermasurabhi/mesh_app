@@ -1,0 +1,49 @@
+.textbox {
+    margin: 0.5 rem;
+    background-color: white;
+    border: 1px solid back;
+    border-radius: 5px;
+    width: 80%;
+    padding: 0.5rem;
+    overflow-x: scroll;
+}
+
+.textbox::-webkit-scrollbar {
+    display: none;
+}
+
+.txt {
+width:10000%;
+display: inline-block;
+}
+
+
+.button {
+    border-radius: 5px;
+    background-color: #b8e4fe;
+    margin: 0;
+    width: 100px;
+    padding: 0.5rem;
+    text-align: center;
+    border: 1px solid #b0b5b8;
+    user-select: none;
+}
+
+.button:hover  {
+    background-color: #7ac8f5;
+}
+
+.copy {
+    border-radius: 5px;
+    background-color:#b8e4fe;
+    margin: 0;
+    width: 100px;
+    padding: 0.5rem;    
+   border: 1px solid #b0b5b8;
+   text-align: center;
+   user-select: none;
+}
+
+.copy:hover  {
+    background-color: #7ac8f5;
+}

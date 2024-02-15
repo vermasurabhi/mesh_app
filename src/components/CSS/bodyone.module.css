@@ -1,0 +1,44 @@
+.outerdivv {
+    margin: 0;
+    padding-top: 2rem;
+}
+
+.outerdiv {
+    position: relative;
+    overflow: hidden;
+    padding: 0;
+    border-radius: 5px;
+}
+
+.microdiv{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    overflow: hidden;
+    padding: 0;
+    margin: 0;
+}
+
+.minidiv {
+    width: 30px;
+    height: 30px;
+    border: 1px solid white;
+    border-radius: 50%;
+    position: absolute;
+    display: none;
+    cursor: pointer;
+}
+
+.microdivin {
+    width: 100%;
+    height: 100%;
+}
+
+.microdivin:hover .minidiv {
+    display: block;
+}
+
+
+
+
+

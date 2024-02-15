@@ -1,0 +1,9 @@
+.navbody {
+    background-color: white;
+    border-radius: 5px;
+    height: 4rem;
+    text-align: center;
+    padding: 7px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    user-select: none;
+}

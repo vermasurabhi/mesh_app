@@ -1,0 +1,14 @@
+/* .rowbody {
+    border: 2px solid black;
+} */
+
+.colone {
+    /* border: 2px solid black; */
+    width: 100%;
+}
+
+.coltwo {
+    /* border: 2px solid rgb(0, 0, 0); */
+    min-width: 20rem;
+    max-width: 20rem;
+}

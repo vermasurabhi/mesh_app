@@ -1,0 +1,46 @@
+
+
+
+.outershell{
+    width: 18rem;
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 2rem;
+    padding-top: 0.5rem;
+    border-radius: 5px;
+    padding-bottom: 1rem;
+    height: 28.5rem;
+    overflow-y: scroll;
+    background-image:
+            radial-gradient(at 0% 0%, #f5dc61, transparent 50%), radial-gradient(at -1% 52%, #f79797, transparent 50%), radial-gradient(at 100% 0%, #8ff0e9, transparent 50%), radial-gradient(at 35% 103%, #ec79a1, transparent 50%), radial-gradient(at 65% 52%, #e3abf2, transparent 50%), radial-gradient(at 67% 90%, #fde363, transparent 50%), radial-gradient(at 98% 96%, #d4c577, transparent 50%)
+}
+
+.outershell::-webkit-scrollbar {
+    display: none;
+}
+
+.listdes {
+    width: 15rem;
+    background-color: white;
+    border-radius: 5px;
+}
+.colorpicker{
+    width: 2rem;
+    height: 2rem;
+    gap: 3;
+}
+.button {
+    font-size: 16px;
+    text-align: center;
+    width: 10rem;
+    border-radius: 5px;
+}
+
+.button:hover{
+    background-color: rgb(186, 183, 183);
+}
+.listdes:hover {
+    background-color: whitesmoke;
+}
+
+
